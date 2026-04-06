@@ -114,19 +114,13 @@ index.html (open in browser)
 
 ---
 
-## 🌐 Deployment
-
-* Frontend deployed using **GitHub Pages**
-* Backend (ML models) runs locally
-
-🔗 Live Demo:
-https://ravi-186.github.io/SHIDS/
-
----
-
 ## 📸 Screenshots
+<img width="1600" height="807" alt="image" src="https://github.com/user-attachments/assets/4f5ef4f6-b529-4c86-b1d2-7cd994bf6f20" />
+<img width="1600" height="807" alt="image" src="https://github.com/user-attachments/assets/176e6b09-7279-4fee-94f8-4f6120608405" />
+<img width="1600" height="820" alt="image" src="https://github.com/user-attachments/assets/20c9f069-6422-4c9b-bdff-b4359bd08895" />
+<img width="1600" height="791" alt="image" src="https://github.com/user-attachments/assets/0bdf7730-a47e-49fe-b0b0-54ec0d75ea1f" />
 
-(Add screenshots of your dashboard, live detection, and results here)
+
 
 ---
 
